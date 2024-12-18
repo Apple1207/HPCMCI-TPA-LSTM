@@ -18,3 +18,17 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.8
 - PyTorch Lightning 2.2.1
 - Any other specific libraries required by the project (list them here)
+﻿
+## Additional Resources
+﻿
+Due to file size limitations, additional comparative method source codes and experimental data are not included in this repository. For access to these resources, please contact the project maintainer at 1085568806@qq.com.
+﻿
+﻿
+## License
+﻿
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software with proper attribution.
+﻿
+﻿
+## Acknowledgments
+﻿
+Special thanks to the authors of the associated research paper and any other contributors who have helped in the development of this project.
